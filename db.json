@@ -1,0 +1,53 @@
+{
+    "burgers": [
+      {
+        "id": 0,
+        "burger": "Double-Double",
+        "fries": "Sweet Potato Fries",
+        "drink": "Strawberry Lemonade",
+        "total": "$19.00"
+      },
+      {
+        "id": 1,
+        "burger": "Bacon Burger",
+        "fries": "Chilli Cheese Fries",
+        "drink": "Vanilla Milkshake",
+        "total": "$21.00"
+      },
+      {
+        "id": 2,
+        "burger": "Hamburger",
+        "fries": "French Fries",
+        "drink": "Chocolate Milkshake",
+        "total": "$14.00"
+      },
+      {
+        "id": 3,
+        "burger": "Bacon Burger Combo",
+        "fries": "French Fries",
+        "drink": "Lemonade",
+        "total": "$15.00"
+      },
+      {
+        "id": 4,
+        "burger": "Cheese Burger",
+        "fries": "Sweet Potato Fries",
+        "drink": "Strawberry Milkshake",
+        "total": "$18.00"
+      },
+      {
+        "id": 5,
+        "burger": "Double-Double",
+        "fries": "No Fries",
+        "drink": "Chocolate Milkshake",
+        "total": "$11.00"
+      },
+      {
+        "id": 6,
+        "burger": "Pup Pattie",
+        "fries": "French Fries",
+        "drink": "Lemonade",
+        "total": "$9.00"
+      }
+    ]
+  }
